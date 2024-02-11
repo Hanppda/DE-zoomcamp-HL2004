@@ -11,6 +11,10 @@
 
 1. [Setup for First-time](2_gcp_overview.md#initial-setup)
     * [Only for Windows](windows.md) - Steps 4 & 5
+
+    GCP project name - DTC DE Course
+    Project ID - lively-wave-413709
+
 2. [IAM / Access specific to this course](2_gcp_overview.md#setup-for-access)
 
 ### Terraform Workshop for GCP Infra
